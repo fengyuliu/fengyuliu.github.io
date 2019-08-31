@@ -1,10 +1,7 @@
-title: Fengyu Liu -- PhD Student at University of Maryland
+title: Fengyu Liu
 author: Fengyu Liu
 email: fengyu_liu@outlook.com
-description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: > PhD Student at University of Maryland, College Park
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -49,7 +46,7 @@ plainwhite:
  #- about.md
 
 # Build settings
-#theme: Fengyu Liu's website
+# theme: Fengyu Liu's website
 
 plugins:
   - jekyll-seo-tag
