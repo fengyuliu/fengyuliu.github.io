@@ -1,8 +1,8 @@
-title: Fengyu	Liu
-author: Fengyu Liu
-email: fengyu_liu@outlook.com
-description: PhD Student at University of Maryland, College Park
-show_excerpts: true # set to true to show excerpts on the homepage
+title:	Fengyu Liu
+author:	Fengyu Liu
+email:	fengyu_liu@outlook.com
+description:	PhD Student at University of Maryland, College Park
+show_excerpts:	true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
