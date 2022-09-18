@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Fengyu Liu, a fourth-year PhD candidate in Electrical and Computer Engineering at the University of Maryland, advised by Prof. [Yanne Chembo](https://chembolab.umd.edu/).
+Welcome to my personal website!
+
+I'm Fengyu Liu, a fourth-year PhD candidate in Electrical and Computer Engineering at the University of Maryland, supervised by Prof. [Yanne Chembo](https://chembolab.umd.edu/).
 
 A data-driven personal website
 ======
