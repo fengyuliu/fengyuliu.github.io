@@ -7,7 +7,6 @@ excerpt: 'We demonstrate a novel path to localizing topologically nontrivial pho
 date: 2020-11-18
 venue: 'Physical Review Letters'
 paperurl: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.213902'
-# citation: ''
 ---
 
 [Download paper here](http://fengyuliu.com/files/2020_PRL_Topology_Cavity.pdf)
