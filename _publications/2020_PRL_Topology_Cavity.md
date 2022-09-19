@@ -2,15 +2,14 @@
 title: "Topology-Controlled Photonic Cavity Based on the Near-Conservation of the
 Valley Degree of Freedom"
 collection: publications
-permalink: /publication/2020_PRL_Topology_Cavity
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/2020_PRL_Topology_Cavity/
+excerpt: 'We demonstrate a novel path to localizing topologically nontrivial photonic edge modes along their propagation direction.'
 date: 2020-11-18
 venue: 'Physical Review Letters'
 paperurl: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.213902'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: ''
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
+ABSTRACT: 
+We demonstrate a novel path to localizing topologically nontrivial photonic edge modes along their propagation direction. Our approach is based on the near-conservation of the photonic valley degree of freedom associated with valley-polarized edge states. When the edge state is reflected from a judiciously oriented mirror, its optical energy is localized at the mirror surface because of an extended time delay required for valley index flipping. The degree of energy localization at the resulting topology-controlled photonic cavity is determined by the valley-flipping time, which is in turn controlled by the geometry of the mirror. Intuitive analytic descriptions of the “leaky” and closed topology-controlled photonic cavities are presented, and two specific designs—one for the microwave and the other for the optical spectral ranges—are proposed.
 [Download paper here](http://fengyuliu.com/files/2020_PRL_Topology_Cavity.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
