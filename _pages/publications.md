@@ -10,7 +10,7 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 ## Articles
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% for post in site.articles reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
