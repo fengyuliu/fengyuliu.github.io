@@ -1,5 +1,5 @@
 ---
-title: "Stochastic and quantum phenomena in microcombs"
+title: "Stochastic and Quantum Phenomena in Microcombs"
 collection: proceedings
 permalink: /proceedings/2022_IPC_Stochastic_Quantum_Microcombs/
 excerpt: 'We report some of the latest advances related to the understanding of stochastic and quantum phenomena in optical microresonators, and we relate them as well to some of the main applications in photonic engineering.'
