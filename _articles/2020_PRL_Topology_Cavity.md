@@ -2,7 +2,7 @@
 title: "Topology-Controlled Photonic Cavity Based on the Near-Conservation of the
 Valley Degree of Freedom"
 collection: articles
-permalink: /publication/2020_PRL_Topology_Cavity/
+permalink: /articles/2020_PRL_Topology_Cavity/
 excerpt: 'We demonstrate a novel path to localizing topologically nontrivial photonic edge modes along their propagation direction.'
 date: 2020-11-18
 venue: 'Physical Review Letters'
