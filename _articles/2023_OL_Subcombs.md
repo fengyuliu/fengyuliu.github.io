@@ -1,9 +1,9 @@
 ---
 title: "Subharmonic Instabilities in Kerr Microcombs"
 collection: articles
-permalink: /articles/2022_OL_Subcombs/
+permalink: /articles/2023_OL_Subcombs/
 excerpt: 'We report experimental observation of subharmonic mode excitation in primary Kerr optical frequency combs generated using crystalline whispering-gallery mode resonators.'
-date: 2022-11-28
+date: 2023-01-18
 venue: 'Optics Letters'
 paperurl: 'https://doi.org/10.1364/OL.476647'
 ---
