@@ -2,7 +2,7 @@
 title: "A stochastic approach to phase noise analysis for microwaves generated with Kerr optical frequency combs"
 collection: articles
 permalink: /articles/2023_CP_Phase_Noise/
-excerpt: 'In this communication, we theoretically investigate a model where Gaussian white noise is added to the coupled-mode equations governing the comb dynamics. This stochastic model allows us to characterize the noise-induced broadening of the spectral lines.'
+excerpt: 'We theoretically investigate a model where Gaussian white noise is added to the coupled-mode equations governing the comb dynamics. This stochastic model allows us to characterize the noise-induced broadening of the spectral lines.'
 date: 2023-05-25
 venue: 'Communications Physics'
 paperurl: 'https://doi.org/10.1038/s42005-023-01225-w'
